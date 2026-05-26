@@ -1,0 +1,278 @@
+State,Year,Obesity Rate,Poverty Rate,Median Income,Region
+Alabama,2019,36.1,15.6,51771.0,South
+Alabama,2020,39.0,14.9,53958.0,South
+Alabama,2021,39.9,16.3,53990.0,South
+Alabama,2022,38.3,16.2,59703.0,South
+Alabama,2023,39.2,15.7,62248.0,South
+Alaska,2019,30.5,10.2,77203.0,West
+Alaska,2020,31.9,9.6,79961.0,West
+Alaska,2021,33.5,10.8,78437.0,West
+Alaska,2022,32.1,10.8,88072.0,West
+Alaska,2023,35.2,10.5,88696.0,West
+Arizona,2019,31.4,13.5,62027.0,West
+Arizona,2020,30.9,12.8,64652.0,West
+Arizona,2021,31.3,12.9,68967.0,West
+Arizona,2022,33.2,12.5,74355.0,West
+Arizona,2023,31.9,12.6,77158.0,West
+Arkansas,2019,37.4,16.0,49020.0,South
+Arkansas,2020,36.4,15.2,51146.0,South
+Arkansas,2021,38.7,16.0,52577.0,South
+Arkansas,2022,37.4,16.3,55505.0,South
+Arkansas,2023,40.0,15.4,58748.0,South
+California,2019,26.2,11.8,80423.0,West
+California,2020,30.3,11.5,83001.0,West
+California,2021,27.6,12.3,84831.0,West
+California,2022,28.1,12.2,91517.0,West
+California,2023,27.7,12.0,95473.0,West
+Colorado,2019,23.8,9.4,77104.0,West
+Colorado,2020,24.2,9.0,77688.0,West
+Colorado,2021,25.1,9.7,82228.0,West
+Colorado,2022,25.0,9.5,89096.0,West
+Colorado,2023,24.9,9.4,92790.0,West
+Connecticut,2019,29.1,9.9,78920.0,Northeast
+Connecticut,2020,29.2,9.7,79723.0,Northeast
+Connecticut,2021,30.4,10.1,83628.0,Northeast
+Connecticut,2022,30.6,9.8,88182.0,Northeast
+Connecticut,2023,29.4,10.2,91477.0,Northeast
+Delaware,2019,34.4,11.2,70348.0,South
+Delaware,2020,36.5,10.9,71335.0,South
+Delaware,2021,33.9,11.5,71636.0,South
+Delaware,2022,37.9,10.0,81933.0,South
+Delaware,2023,35.7,10.8,81615.0,South
+Florida,2019,27.0,12.7,59198.0,South
+Florida,2020,28.4,12.4,61724.0,South
+Florida,2021,,13.2,63054.0,South
+Florida,2022,31.6,12.7,69287.0,South
+Florida,2023,30.1,12.4,73283.0,South
+Florida,2023,30.1,12.4,73283.0,South
+Georgia,2019,33.1,13.5,61950.0,South
+Georgia,2020,34.3,14.0,62800.0,South
+Georgia,2021,33.9,14.2,66507.0,South
+Georgia,2022,37.0,12.9,72742.0,South
+Georgia,2023,35.0,13.7,74521.0,South
+Hawaii,2019,25.0,9.0,83734.0,West
+Hawaii,2020,24.5,8.9,86878.0,West
+Hawaii,2021,25.0,10.9,85547.0,West
+Hawaii,2022,25.9,10.0,93683.0,West
+Hawaii,2023,26.1,10.2,96716.0,West
+Idaho,2019,29.5,11.0,60830.0,West
+Idaho,2020,31.1,10.1,62603.0,West
+Idaho,2021,31.6,10.8,66318.0,West
+Idaho,2022,33.2,10.5,72634.0,West
+Idaho,2023,31.0,10.1,74859.0,West
+Illinois,2019,31.6,11.4,69212.0,Midwest
+Illinois,2020,32.4,11.0,71243.0,Midwest
+Illinois,2021,34.2,12.1,72215.0,Midwest
+Illinois,2022,33.4,11.9,76744.0,Midwest
+Illinois,2023,36.0,11.6,80346.0,Midwest
+Illinois,2023,36.0,11.6,80346.0,Midwest
+Indiana,2019,35.3,11.9,57617.0,Midwest
+Indiana,2020,36.8,11.6,60794.0,Midwest
+Indiana,2021,36.3,12.1,62723.0,Midwest
+Indiana,2022,37.7,12.5,66768.0,Midwest
+Indiana,2023,37.8,12.2,69458.0,Midwest
+Iowa,2019,33.9,11.0,61807.0,Midwest
+Iowa,2020,36.5,10.2,62362.0,Midwest
+Iowa,2021,36.4,11.0,65645.0,Midwest
+Iowa,2022,37.4,11.0,69708.0,Midwest
+Iowa,2023,37.8,11.1,71662.0,Midwest
+Kansas,2019,35.2,11.3,62028.0,Midwest
+Kansas,2020,35.3,10.6,63214.0,Midwest
+Kansas,2021,36.0,11.6,64128.0,Midwest
+Kansas,2022,35.7,11.9,68827.0,Midwest
+Kansas,2023,35.9,11.2,70316.0,Midwest
+Kentucky,2019,36.5,16.0,52256.0,South
+Kentucky,2020,36.6,14.9,54074.0,South
+Kentucky,2021,40.3,16.3,55532.0,South
+Kentucky,2022,37.7,16.3,59246.0,South
+Kentucky,2023,,16.1,61099.0,South
+Louisiana,2019,35.9,18.8,51108.0,South
+Louisiana,2020,38.1,17.8,51730.0,South
+Louisiana,2021,38.6,19.5,52090.0,South
+Louisiana,2022,40.1,18.6,55458.0,South
+Louisiana,2023,39.9,18.9,58273.0,South
+Maine,2019,31.7,10.9,58824.0,Northeast
+Maine,2020,31.0,10.6,59145.0,Northeast
+Maine,2021,31.9,11.2,64823.0,Northeast
+Maine,2022,33.1,10.9,69485.0,Northeast
+Maine,2023,32.6,10.5,73463.0,Northeast
+Maryland,2019,32.3,9.1,86644.0,South
+Maryland,2020,31.0,9.0,88589.0,South
+Maryland,2021,34.3,10.3,90129.0,South
+Maryland,2022,33.2,9.8,94957.0,South
+Maryland,2023,34.1,9.7,98568.0,South
+Massachusetts,2019,25.2,9.5,85700.0,Northeast
+Massachusetts,2020,24.4,9.4,87288.0,Northeast
+Massachusetts,2021,27.4,10.4,89577.0,Northeast
+Massachusetts,2022,27.2,10.4,94538.0,Northeast
+Massachusetts,2023,27.4,10.5,99750.0,Northeast
+Michigan,2019,36.0,12.9,59522.0,Midwest
+Michigan,2020,35.2,12.6,61352.0,Midwest
+Michigan,2021,34.4,13.0,63444.0,Midwest
+Michigan,2022,34.5,13.3,66926.0,Midwest
+Michigan,2023,35.4,13.5,69097.0,Midwest
+Minnesota,2019,30.1,8.9,74529.0,Midwest
+Minnesota,2020,30.7,8.3,75489.0,Midwest
+Minnesota,2021,32.4,9.3,77712.0,Midwest
+Minnesota,2022,33.6,9.6,82343.0,Midwest
+Minnesota,2023,33.3,9.2,85070.0,Midwest
+Mississippi,2019,40.8,19.5,45928.0,South
+Mississippi,2020,39.7,18.7,47368.0,South
+Mississippi,2021,39.1,19.2,48871.0,South
+Mississippi,2022,39.5,19.2,52788.0,South
+Mississippi,2023,40.1,18.3,54386.0,South
+Mississippi,2023,40.1,18.3,54386.0,South
+Missouri,2019,34.8,12.9,57375.0,Midwest
+Missouri,2020,34.0,12.1,58812.0,Midwest
+Missouri,2021,37.3,12.8,61815.0,Midwest
+Missouri,2022,36.4,13.1,64783.0,Midwest
+Missouri,2023,35.3,12.0,68484.0,Midwest
+Montana,2019,28.3,12.6,57248.0,West
+Montana,2020,28.5,12.4,57730.0,West
+Montana,2021,31.8,12.0,63357.0,West
+Montana,2022,30.5,11.8,67915.0,West
+Montana,2023,30.5,11.8,70939.0,West
+Nebraska,2019,34.1,9.9,63290.0,Midwest
+Nebraska,2020,34.0,9.2,64735.0,Midwest
+Nebraska,2021,35.9,10.5,66949.0,Midwest
+Nebraska,2022,35.3,11.1,69828.0,Midwest
+Nebraska,2023,36.6,10.2,74727.0,Midwest
+Nevada,2019,30.6,12.7,63268.0,West
+Nevada,2020,28.7,12.5,64608.0,West
+Nevada,2021,31.3,14.0,66194.0,West
+Nevada,2022,33.5,12.6,72348.0,West
+Nevada,2023,30.8,12.2,76332.0,West
+New Hampshire,2019,31.8,7.5,78571.0,Northeast
+New Hampshire,2020,29.9,7.0,81415.0,Northeast
+New Hampshire,2021,30.6,7.4,88268.0,Northeast
+New Hampshire,2022,30.2,7.4,90750.0,Northeast
+New Hampshire,2023,32.8,7.3,97031.0,Northeast
+New Jersey,2019,,9.1,85786.0,Northeast
+New Jersey,2020,27.7,9.4,87095.0,Northeast
+New Jersey,2021,28.2,10.2,89227.0,Northeast
+New Jersey,2022,29.1,9.7,96341.0,Northeast
+New Jersey,2023,28.9,9.7,99716.0,Northeast
+New Mexico,2019,31.7,17.5,52021.0,West
+New Mexico,2020,30.9,16.8,52285.0,West
+New Mexico,2021,34.6,17.7,54304.0,West
+New Mexico,2022,32.4,17.3,59842.0,West
+New Mexico,2023,35.3,16.9,62286.0,West
+New York,2019,27.1,13.1,72038.0,Northeast
+New York,2020,26.3,12.7,73354.0,Northeast
+New York,2021,29.1,14.0,74230.0,Northeast
+New York,2022,30.1,14.2,79463.0,Northeast
+New York,2023,28.0,14.1,82052.0,Northeast
+New York,2023,28.0,14.1,82052.0,Northeast
+North Carolina,2019,34.0,13.6,57388.0,South
+North Carolina,2020,33.6,12.9,59616.0,South
+North Carolina,2021,36.0,13.5,61997.0,South
+North Carolina,2022,34.1,12.8,67516.0,South
+North Carolina,2023,34.0,12.8,70838.0,South
+North Dakota,2019,34.8,10.5,67402.0,Midwest
+North Dakota,2020,33.1,10.2,64289.0,Midwest
+North Dakota,2021,35.2,10.9,67603.0,Midwest
+North Dakota,2022,35.4,11.2,73240.0,Midwest
+North Dakota,2023,35.6,10.0,77346.0,Midwest
+Ohio,2019,34.8,13.0,58704.0,Midwest
+Ohio,2020,35.5,12.6,60360.0,Midwest
+Ohio,2021,37.8,13.3,62286.0,Midwest
+Ohio,2022,38.1,13.4,65786.0,Midwest
+Ohio,2023,36.4,13.2,67873.0,Midwest
+Ohio,2023,36.4,13.2,67873.0,Midwest
+Oklahoma,2019,36.8,15.1,54447.0,South
+Oklahoma,2020,36.4,14.3,54512.0,South
+Oklahoma,2021,39.4,15.4,55829.0,South
+Oklahoma,2022,40.0,15.6,59632.0,South
+Oklahoma,2023,38.7,15.8,62120.0,South
+Oregon,2019,29.0,11.5,66955.0,West
+Oregon,2020,28.1,11.0,67832.0,West
+Oregon,2021,30.4,12.2,71441.0,West
+Oregon,2022,30.9,12.0,75638.0,West
+Oregon,2023,33.6,12.1,80061.0,West
+Pennsylvania,2019,33.2,12.0,63455.0,Northeast
+Pennsylvania,2020,31.5,10.9,64898.0,Northeast
+Pennsylvania,2021,33.3,12.0,68931.0,Northeast
+Pennsylvania,2022,33.4,11.8,71789.0,Northeast
+Pennsylvania,2023,,11.9,73826.0,Northeast
+Rhode Island,2019,30.0,11.6,70383.0,Northeast
+Rhode Island,2020,30.1,10.6,73919.0,Northeast
+Rhode Island,2021,30.1,12.1,73324.0,Northeast
+Rhode Island,2022,30.8,11.2,80873.0,Northeast
+Rhode Island,2023,31.6,11.4,83518.0,Northeast
+South Carolina,2019,35.4,13.9,56360.0,South
+South Carolina,2020,36.2,13.8,57216.0,South
+South Carolina,2021,36.1,14.5,59447.0,South
+South Carolina,2022,35.0,14.0,64227.0,South
+South Carolina,2023,36.0,13.9,67988.0,South
+South Dakota,2019,33.0,11.9,60414.0,Midwest
+South Dakota,2020,33.2,11.6,61149.0,Midwest
+South Dakota,2021,38.4,11.9,66843.0,Midwest
+South Dakota,2022,36.8,12.4,70597.0,Midwest
+South Dakota,2023,36.0,11.4,72794.0,Midwest
+Tennessee,2019,36.5,13.8,56047.0,South
+Tennessee,2020,35.6,13.6,56962.0,South
+Tennessee,2021,35.0,13.7,59698.0,South
+Tennessee,2022,38.9,13.3,65231.0,South
+Tennessee,2023,37.6,13.8,67651.0,South
+Texas,2019,34.0,13.6,64044.0,South
+Texas,2020,35.8,13.4,66048.0,South
+Texas,2021,36.1,14.2,66959.0,South
+Texas,2022,35.5,14.0,72279.0,South
+Texas,2023,34.4,13.7,75778.0,South
+Texas,2023,34.4,13.7,75778.0,South
+Utah,2019,29.2,8.8,75705.0,West
+Utah,2020,28.6,7.3,77785.0,West
+Utah,2021,30.9,8.7,79449.0,West
+Utah,2022,31.1,8.3,88531.0,West
+Utah,2023,30.2,9.0,93030.0,West
+Vermont,2019,26.6,10.1,63293.0,Northeast
+Vermont,2020,26.3,9.4,67717.0,Northeast
+Vermont,2021,29.0,10.2,72415.0,Northeast
+Vermont,2022,26.8,10.2,74555.0,Northeast
+Vermont,2023,28.8,9.9,80626.0,Northeast
+Virginia,2019,31.9,9.9,76471.0,South
+Virginia,2020,32.2,9.2,79154.0,South
+Virginia,2021,34.2,10.3,80926.0,South
+Virginia,2022,35.2,10.6,85838.0,South
+Virginia,2023,34.3,10.2,89864.0,South
+Washington,2019,28.3,9.8,78674.0,West
+Washington,2020,28.0,9.5,80319.0,West
+Washington,2021,28.8,9.9,84155.0,West
+Washington,2022,31.7,10.0,91255.0,West
+Washington,2023,30.6,10.3,94553.0,West
+West Virginia,2019,39.7,16.2,48659.0,South
+West Virginia,2020,39.1,15.8,49202.0,South
+West Virginia,2021,40.6,16.8,51122.0,South
+West Virginia,2022,41.0,17.4,54097.0,South
+West Virginia,2023,41.2,16.4,55875.0,South
+West Virginia,2023,41.2,16.4,55875.0,South
+Wisconsin,2019,34.2,10.4,64177.0,Midwest
+Wisconsin,2020,32.3,10.0,64901.0,Midwest
+Wisconsin,2021,33.9,10.8,67150.0,Midwest
+Wisconsin,2022,37.7,10.8,71050.0,Midwest
+Wisconsin,2023,35.9,10.6,74671.0,Midwest
+Wyoming,2019,29.7,9.9,66152.0,West
+Wyoming,2020,30.7,9.2,67284.0,West
+Wyoming,2021,32.0,10.6,66508.0,West
+Wyoming,2022,34.3,11.2,71275.0,West
+Wyoming,2023,33.3,10.4,73558.0,West
+Midwest Average,2019,33.98,11.33,63006.42,Midwest
+Midwest Average,2020,34.08,10.83,64058.33,Midwest
+Midwest Average,2021,35.68,11.61,66542.75,Midwest
+Midwest Average,2022,36.0,11.85,70550.0,Midwest
+Midwest Average,2023,36.03,11.5,73575.93,Midwest
+Northeast Average,2019,29.34,10.41,72996.67,Northeast
+Northeast Average,2020,28.49,9.97,74950.44,Northeast
+Northeast Average,2021,30.0,10.84,78269.22,Northeast
+Northeast Average,2022,30.14,10.62,82886.22,Northeast
+Northeast Average,2023,29.72,10.96,86351.1,Northeast
+South Average,2019,35.11,14.28,58852.44,South
+South Average,2020,35.56,13.8,60339.62,South
+South Average,2021,37.07,14.68,61897.75,South
+South Average,2022,37.02,14.36,66902.44,South
+South Average,2023,36.64,14.42,68608.85,South
+West Average,2019,28.71,11.36,69334.15,West
+West Average,2020,28.95,10.82,70971.23,West
+West Average,2021,30.3,11.73,73210.46,West
+West Average,2022,30.92,11.44,79704.69,West
+West Average,2023,30.85,11.35,82803.92,West
